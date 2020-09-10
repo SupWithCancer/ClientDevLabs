@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:whitesmoke;
+}
+
+#textBox {
+    margin-left: 700px;
+    margin-top: 300px;
+}
+
+#ok {
+    color:white;
+    background: #2E2E2E;
+    border: none;
+}
+
+
+#userText {
+    border-color: black;
+    border-radius:10px;
+    padding:5px;
+    border:2px solid black;
+    background: white;
+    font-size:18px;
+}
+
+#sendedText {
+    color: black;
+    size: 60px;
+    text-align: center;
+    margin-left: 75px;
+    margin-top: 10px;
+    font-size:24px;
+}
